@@ -1,0 +1,9 @@
+.ima{ 
+    margin-left: 500px;
+    position: fixed;
+    top: 400px;
+    z-index: -21000;
+}
+p{
+    text-align: center;
+}
